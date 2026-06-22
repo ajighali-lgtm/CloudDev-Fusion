@@ -1,3 +1,4 @@
+<?php
 echo "Hello World!";​
 $serverName = getenv('SQL_SERVER_NAME'); // Get server name from environment variables​
 $connectionOptions = array(​
